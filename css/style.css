@@ -1,0 +1,356 @@
+body{
+    background-color: #fffafa;
+
+}
+
+header ul.navigation{
+    padding-right: 50px;
+    width: 100%;
+}
+
+header ul.navigation li{
+    float: left;
+    list-style: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: left;
+    margin-right: 40px;
+}
+
+header ul.navigation li button{
+    border-radius: 50%;
+    border-style: none;
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+    background-color: rgb(243, 91, 243);;
+}
+
+header ul.navigation1{
+    margin-right: 50px;
+    width: 100%;
+    padding-right: 100%;
+    
+}
+
+header ul.navigation1 li button{
+    border-style: none;
+    background-color:  rgb(243, 91, 243);;
+    color:#fff;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 7px 18px;
+    border-radius: 13px;
+    
+}
+
+
+header ul.navigation1 li{
+    float: right;
+    list-style: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: left;
+    margin-right: 40px;
+}
+section.sec-a img{
+ height: 400px;
+ width: 750px;
+ position: relative;
+ bottom: 80px;
+
+}
+section.sec-a{
+    position: relative;
+    top: 80px;
+    background-color: rgb(241, 225, 241);
+}
+
+section.sec-a h1{
+    position: relative;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+    font-family:  monospace;
+}
+
+section.sec-a h1 span.cod{
+    color: rgb(243, 91, 243);
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section.sec-a h1 span.cle{
+    color: rgb(226, 184, 226);
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section.sec-a h1 span.nig{
+    color: rgb(243, 91, 243);
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section.sec-a p{
+    font-size: 15px;
+    color: gray;
+    font-family: sans-serif;
+}
+
+section.sec-a button.blue{
+    border-style: none;
+    background-color:  rgb(243, 91, 243);;
+    color:#fff;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 7px 18px;
+    border-radius: 13px;
+}
+
+section.sec-a button.white{
+    border-style: none;
+    background-color: #fff ;
+    color: rgb(243, 91, 243);;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 7px 18px;
+    border-radius: 13px;
+}
+
+section.sec-b{
+    position: relative;
+    top: 150px;
+    
+    
+}
+
+section.sec-b h1{
+    position: relative;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: grey;
+}
+
+section.sec-b p{
+    font-size: 15px;
+    color: gray;
+    font-family: sans-serif;
+}
+
+section.sec-b .grid-20{
+    position: relative;
+    top: 120px;
+    
+}
+
+section.sec-b .grid-20 button{
+    float: right;
+    border-style: none;
+    background-color: #fff ;
+    color: rgb(243, 91, 243);;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 7px 18px;
+    border-radius: 13px;
+    text-decoration: none;
+}
+
+section.sec-b .grid-40 button i{
+    width: 10px;
+}
+
+section.sec-c{
+    position: relative;
+    top: 200px;
+}
+section.sec-c span.youtube{
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: red;
+    border-style: none;
+    
+}
+
+section.sec-c span.building{
+    color: blue;
+    text-decoration: none;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: white;
+    border-style: none;
+    
+}
+
+section.sec-c span.columns{
+    color: blue;
+    text-decoration: none;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #fff;
+    border-style: none;
+}
+
+section.sec-c button{
+    border-style: none;
+    background-color: #fff ;
+    color: rgb(243, 91, 243);
+    font-weight: 700;
+    text-decoration: none;
+    padding: 7px 18px;
+    border-radius: 13px;
+    text-decoration: none;
+}
+
+section.sec-c h3{
+    position: relative;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: gray;
+}
+
+section.sec-c p{
+    font-size: 11px;
+    color: gray;
+    font-family: sans-serif;
+}
+
+section.sec-c .grid-30{
+    background-color: rgb(255, 255, 255);
+}
+
+section.sec-d{
+    position: relative;
+    top: 200px;
+}
+section.sec-d .grid{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+section.sec-d .grid h1{
+    color: gray;
+    background-color: rgb(243, 227, 235);
+    text-transform: capitalize;
+}
+
+section.sec-d .grid p{
+    color: gray;
+    display: block;
+    
+}
+
+section.sec-d img{
+    text-decoration: none;
+    font-size: 25px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-style: none;
+}
+
+.join {
+    position: relative;
+    top: 220px;
+    text-align: center;
+    color: gray;
+    font-family: sans-serif;
+    font-family: 600;
+}
+.join button{
+    border-style: none;
+    background-color: rgb(243, 91, 243);
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 7px 18px;
+    border-radius: 13px;
+    text-decoration: none;
+    
+}
+
+
+
+.earn{
+    position: relative;
+    top: 250px;
+    text-align: center;
+    color: gray;
+    font-family: sans-serif;
+    font-family: 600;
+}
+.earn u{
+    color: rgb(243, 91, 243);
+}
+
+hr{
+    border-bottom: 5px dashed rgb(240, 195, 240);
+}
+
+footer{
+    position: relative;
+    top: 250px;
+}
+
+footer h1{
+    float: left;
+    list-style: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: left;
+    margin-right: 40px;
+    color: gray;
+}
+
+footer h1 button{
+    border-radius: 50%;
+    border-style: none;
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+    background-color: rgb(243, 91, 243);;
+}
+footer ul li{
+    float: left;
+    list-style: none;
+    color: gray;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: left;
+    margin-right: 40px;
+    padding-right: 10px
+}
